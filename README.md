@@ -1,6 +1,6 @@
 # PatikaOdev14 - C# Constructor Pratiği
 
-Bu proje, C# dilinde constructor (yapıcı metot) kullanımını öğrenmek amacıyla hazırlanmıştır. Projede bir `Bebek` (Baby) sınıfı tanımlanmış ve farklı constructor'lar ile nesne oluşturma örnekleri gösterilmiştir.
+Bu proje, C# dilinde constructor (yapıcı metot) kullanımını öğrenmek amacıyla hazırlanmıştır. Projede bir `Bebek` sınıfı tanımlanmış ve farklı constructor'lar ile nesne oluşturma örnekleri gösterilmiştir.
 
 ## Kullanılan Özellikler
 
